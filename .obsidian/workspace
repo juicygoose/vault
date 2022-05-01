@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "38673d963ee0e13b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fe0ee9ad7cad521",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Celery.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76640e23318a395f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1add00026f0a1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a1545a00429b0cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "af8944eb5e0ccfa1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abf4626fad3ddc98",
+    "type": "split",
+    "children": [
+      {
+        "id": "f63b92253a48228f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15634773d400f632",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Celery.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0b8f992349dbb6b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5fe0ee9ad7cad521",
+  "lastOpenFiles": [
+    "Celery.md",
+    "Python.md",
+    "Flask.md",
+    "test.md"
+  ]
+}
