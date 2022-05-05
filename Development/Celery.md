@@ -1,6 +1,7 @@
 ---
 tag: python
-date: 2022
+date: 2022-05-01T16:21:29+02:00
+title: Celery
 ---
 # Intro
 Celery can be used as an async framework for [[Python]]. It uses a broker (database). Most of the time we use [redis](https://docs.celeryq.dev/en/stable/getting-started/backends-and-brokers/redis.html) as a broker. 
