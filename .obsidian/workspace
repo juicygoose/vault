@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Celery.md",
-            "mode": "preview",
+            "file": "Development/Flask.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Celery.md",
+                "file": "Development/Flask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,20 +87,28 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "dd1ba3e5ca909f22",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "5fe0ee9ad7cad521",
   "lastOpenFiles": [
-    "Celery.md",
-    "Python.md",
-    "Flask.md",
+    "Development/Flask.md",
+    "Development/SQL Alchemy.md",
+    "Development/Celery.md",
+    "Development/ORM.md",
+    "Development/Python.md",
     "test.md"
   ]
 }
