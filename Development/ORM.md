@@ -1,5 +1,5 @@
 ---
-tag: concepts
+tags: [concepts]
 date: 2022-05-03T16:21:29+02:00
 title: ORM
 ---
