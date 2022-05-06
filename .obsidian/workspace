@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Development/Celery.md",
+            "file": "Development/SQL Alchemy.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Celery.md",
+                "file": "Development/SQL Alchemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,11 +105,13 @@
   },
   "active": "5fe0ee9ad7cad521",
   "lastOpenFiles": [
-    "Development/Celery.md",
-    "Development/Flask.md",
-    "Development/ORM.md",
-    "Development/Python.md",
     "Development/SQL Alchemy.md",
+    "Development/Flask.md",
+    "Development/Python.md",
+    "Templates/Default Template.md",
+    "Development/Celery.md",
+    "troll.md",
+    "Development/ORM.md",
     "test.md"
   ]
 }
